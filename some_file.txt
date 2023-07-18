@@ -1,0 +1,4 @@
+Hey, this is a test file. The content in this file is comletely random.
+You might also run into some words which is repeated unnecesary amount of times just to fulfil the purpose.
+The purpose of this file is just to serve the purpose. 
+Checking if it will count THIS as new word.
